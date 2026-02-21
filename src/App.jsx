@@ -11,7 +11,7 @@ function addition(){
   return (
     <>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more 
+        Location Finder 
       </p>
 
       <button onClick={()=>addition()}>add</button>
